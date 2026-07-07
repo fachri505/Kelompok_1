@@ -420,9 +420,9 @@ https://youtube.com/...
 
 # 📝 Kesimpulan
 
-Berdasarkan praktikum yang telah dilakukan, proses instalasi Debian 13 Headless berhasil diselesaikan mulai dari pemasangan sistem operasi, konfigurasi pengguna, instalasi web server Nginx, hingga pengujian akses web melalui port forwarding VMware.
+Berdasarkan hasil praktikum, seluruh tahapan instalasi Debian 13 Headless telah berhasil dilaksanakan dengan baik. Proses tersebut meliputi instalasi sistem operasi, pembuatan dan konfigurasi akun pengguna, pemasangan web server Nginx, serta pengujian layanan web menggunakan port forwarding pada VMware yang menunjukkan bahwa server dapat diakses dengan baik.
 
-Melalui praktikum ini diperoleh pemahaman bahwa server berbasis Command Line Interface (CLI) lebih ringan dibandingkan server yang menggunakan Graphical User Interface (GUI), sehingga lebih efisien dalam penggunaan sumber daya komputer. Selain itu, penggunaan SSH mempermudah proses administrasi server dari komputer lain melalui jaringan.
+Praktikum ini memberikan pemahaman bahwa penggunaan Debian Headless yang berbasis Command Line Interface (CLI) memiliki keunggulan dalam efisiensi penggunaan sumber daya karena tidak memerlukan antarmuka grafis. Selain itu, penerapan SSH memudahkan administrator dalam melakukan pengelolaan dan konfigurasi server dari perangkat lain melalui jaringan secara praktis dan fleksibel.
 
 ## Poin-poin yang Dipelajari
 
