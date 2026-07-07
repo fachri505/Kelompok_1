@@ -426,16 +426,17 @@ Praktikum ini memberikan pemahaman bahwa penggunaan Debian Headless yang berbasi
 
 ## Poin-poin yang Dipelajari
 
-- Memahami proses instalasi Debian 13 dalam mode headless.
-- Memahami konfigurasi hostname, user, password, dan partisi harddisk.
-- Memahami konfigurasi jaringan dasar pada Debian.
-- Memahami penggunaan perintah apt untuk melakukan update sistem.
-- Memahami cara memberikan hak akses administrator menggunakan sudo.
-- Memahami instalasi dan konfigurasi web server Nginx.
-- Memahami pengelolaan layanan menggunakan systemctl.
-- Memahami cara melakukan port forwarding pada VMware.
-- Memahami cara menguji web server melalui browser host.
-- Menambah pengalaman dalam melakukan administrasi server Linux berbasis terminal.
+1. Mempelajari tahapan instalasi sistem operasi Debian 13 dalam mode headless tanpa antarmuka grafis.
+2. Memahami proses pengaturan hostname, pembuatan akun pengguna, pengelolaan kata sandi, serta konfigurasi partisi penyimpanan.
+3. Menguasai konfigurasi dasar jaringan agar server dapat terhubung dan berkomunikasi melalui jaringan.
+4. Memahami penggunaan utilitas `apt` untuk memperbarui paket dan menjaga sistem tetap terkini.
+5. Mengetahui cara memberikan hak akses administratif kepada pengguna melalui mekanisme `sudo`.
+6. Mempelajari proses instalasi, konfigurasi, dan pengoperasian web server Nginx pada Debian.
+7. Memahami pengelolaan layanan sistem menggunakan perintah `systemctl`, seperti menjalankan, menghentikan, dan memeriksa status layanan.
+8. Mengetahui cara mengonfigurasi port forwarding pada VMware agar layanan server dapat diakses dari sistem host.
+9. Mampu melakukan pengujian terhadap web server menggunakan browser pada komputer host untuk memastikan layanan berjalan dengan baik.
+10. Meningkatkan keterampilan dan pengalaman dalam melakukan administrasi server Linux berbasis Command Line Interface (CLI).
+
 
 Secara keseluruhan, praktikum ini memberikan pengalaman langsung mengenai instalasi, konfigurasi, dan pengelolaan server Debian 13 secara headless sebagai dasar administrasi sistem operasi Linux.# Kelompok_1
 Tugas_Instal_debian
