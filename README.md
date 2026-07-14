@@ -416,6 +416,14 @@ Tambahkan tautan video YouTube atau Google Drive di bawah ini.
 https://youtu.be/Zh-L5jSRc-o
 ```
 
+# Link Laporan Formal
+
+Berikut Adalah LAporan Formal
+
+```
+https://drive.google.com/file/d/1DV4ohMXU6OT_-N5Ow9WrW2WBhgzR7Oda/view?usp=drive_link
+```
+
 ---
 
 # 📝 Kesimpulan
