@@ -421,7 +421,7 @@ https://youtu.be/Zh-L5jSRc-o
 Berikut Adalah LAporan Formal
 
 ```
-https://drive.google.com/file/d/1DV4ohMXU6OT_-N5Ow9WrW2WBhgzR7Oda/view?usp=drive_link
+https://drive.google.com/file/d/1DV4ohMXU6OT_-N5Ow9WrW2WBhgzR7Oda/view?usp=sharing
 ```
 
 ---
